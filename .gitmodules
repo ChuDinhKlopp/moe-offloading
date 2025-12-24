@@ -1,0 +1,3 @@
+[submodule "thirdparty/vllm-hpclab"]
+	path = thirdparty/vllm-hpclab
+	url = git@github.com:ChuDinhKlopp/vllm-hpclab.git
