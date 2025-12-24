@@ -32,3 +32,6 @@ Execute the script `bench_gpt-oss-120b.sh`
 ```
 ./bench_gpt-oss-120b.sh
 ```
+
+# Process data
+Run all the cells under "Expert Activation Inspection" section in the notebook `process_data.ipynb` to generate a `html` file that illustrates the expert activation trace at each step.
